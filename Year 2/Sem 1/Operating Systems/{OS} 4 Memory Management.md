@@ -175,7 +175,9 @@ We keep checking the four conditions and for every condition that is satisfied, 
 - **Deadlock ignorance** ignored successfully
 ---
 
-### Memory Management
+### Memory Management 
+
+***Updated till 24th September***
 
 To achieve a degree a multi-programming and proper utilization of memory; memory management is important.
 
