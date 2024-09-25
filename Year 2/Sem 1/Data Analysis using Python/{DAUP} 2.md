@@ -176,3 +176,24 @@ The different functions of importing data are as follows:-
 4. `read_json`:- helps to read a json file
 5. `read_sql`:- helps to read a sql file
 
+
+```python
+import pandas as pd
+student = pd.read_csv("file_path")
+print("Dimension", student.shape)
+print("size", student.size)
+print("preview of dataset", student.columns)
+
+```
+
+### Functions of Data-frame
+
+The pandas library provides man functions with respect to data-frame. These functions are related to information of the data-frame such as:
+
+1. Describe
+2. Info
+3. Displaying records using head(), tail().
+4. Statistical functions including mean, median.
+5. Mathematical functions such as min(), prod() and sum().
+6. Sorting of the data-frame on the basis of specified column using sort_values().
+
