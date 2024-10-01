@@ -1,8 +1,7 @@
 # {OS} Synchronization Mechanisms
 
-Course: Operating Systems (Operating%20Systems%20f7a5c52a1398467487fc5042b3a10069.md)
+Course: Operating Systems 
 Confidence: Not Confident
-Last Edited: September 11, 2024 10:50 AM
 
 Synchronization is the process of preventing two processes from executing the critical section simultaneously.
 

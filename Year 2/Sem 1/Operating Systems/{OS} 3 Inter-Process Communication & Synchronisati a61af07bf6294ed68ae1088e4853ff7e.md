@@ -1,4 +1,4 @@
-# {OS} 3. Inter-Process Communication & Synchronisation Deadlocks
+****# {OS} 3. Inter-Process Communication & Synchronisation Deadlocks
 
 Course: Operating Systems (Operating%20Systems%20f7a5c52a1398467487fc5042b3a10069.md)
 Confidence: Not Confident

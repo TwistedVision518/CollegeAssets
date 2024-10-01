@@ -11,8 +11,24 @@
             "id": "2b3382203198d480",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/{OS} 4 Memory Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2d3d9d66d88731e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating Systems/{OS} 3 Inter-Process Communication & Synchronisati a61af07bf6294ed68ae1088e4853ff7e.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "49fded83e2454193",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Operating Systems/{OS} 4 Memory Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Operating Systems/{OS} 4 Memory Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Operating Systems/{OS} 4 Memory Management.md"
+              }
             }
           }
         ]
@@ -140,5 +161,8 @@
     }
   },
   "active": "2b3382203198d480",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Operating Systems/{OS} 3 Inter-Process Communication & Synchronisati a61af07bf6294ed68ae1088e4853ff7e.md",
+    "Operating Systems/{OS} 4 Memory Management.md"
+  ]
 }
