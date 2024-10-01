@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems/{OS} 4 Memory Management.md",
+                "file": "Operating Systems/{OS} 3 Inter-Process Communication & Synchronisati a61af07bf6294ed68ae1088e4853ff7e.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems/{OS} 4 Memory Management.md",
+                "file": "Operating Systems/{OS} 3 Inter-Process Communication & Synchronisati a61af07bf6294ed68ae1088e4853ff7e.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems/{OS} 4 Memory Management.md"
+                "file": "Operating Systems/{OS} 3 Inter-Process Communication & Synchronisati a61af07bf6294ed68ae1088e4853ff7e.md"
               }
             }
           }
@@ -160,9 +161,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b3382203198d480",
+  "active": "e2d3d9d66d88731e",
   "lastOpenFiles": [
-    "Operating Systems/{OS} 3 Inter-Process Communication & Synchronisati a61af07bf6294ed68ae1088e4853ff7e.md",
-    "Operating Systems/{OS} 4 Memory Management.md"
+    "Operating Systems/{OS} 4 Memory Management.md",
+    "Operating Systems/{OS} 3 Inter-Process Communication & Synchronisati a61af07bf6294ed68ae1088e4853ff7e.md"
   ]
 }
